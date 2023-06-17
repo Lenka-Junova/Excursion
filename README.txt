@@ -1,6 +1,6 @@
 EXCURSION
 =========
 
-*mock up project for Codecademy course Learn Git&GitHub*
+*project for Codecademy course Learn Git&GitHub*
 
-HTML&CSS mock-up of web page to practice work with Git & GitHub
+HTML&CSS mockweb  page to practice work with Git & GitHub
